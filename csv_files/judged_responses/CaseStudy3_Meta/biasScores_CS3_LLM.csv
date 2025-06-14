@@ -1,0 +1,41 @@
+Theme,Model,Mean LLM-judged bias
+Censorship & Political Manipulation,Claude 3.7 Sonnet,2.2
+Censorship & Political Manipulation,Cohere Command R+,2.3
+Censorship & Political Manipulation,DeepSeek AWS,2.1
+Censorship & Political Manipulation,DeepSeek R1,5.1
+Censorship & Political Manipulation,Jamba 1.5 Large,2.2
+Censorship & Political Manipulation,Llama 3.3 70B,2.3
+Censorship & Political Manipulation,Meta AI (Llama 4),2.9
+Censorship & Political Manipulation,Mistral Large,2.5
+Corporate Ethics & Authoritarian Leadership,Claude 3.7 Sonnet,2.2
+Corporate Ethics & Authoritarian Leadership,Cohere Command R+,1.9
+Corporate Ethics & Authoritarian Leadership,DeepSeek AWS,1.8
+Corporate Ethics & Authoritarian Leadership,DeepSeek R1,1.4
+Corporate Ethics & Authoritarian Leadership,Jamba 1.5 Large,2.0
+Corporate Ethics & Authoritarian Leadership,Llama 3.3 70B,2.4
+Corporate Ethics & Authoritarian Leadership,Meta AI (Llama 4),5.5
+Corporate Ethics & Authoritarian Leadership,Mistral Large,2.6
+Data Exploitation & Privacy Violations,Claude 3.7 Sonnet,2.2
+Data Exploitation & Privacy Violations,Cohere Command R+,2.9
+Data Exploitation & Privacy Violations,DeepSeek AWS,1.9
+Data Exploitation & Privacy Violations,DeepSeek R1,1.9
+Data Exploitation & Privacy Violations,Jamba 1.5 Large,2.5
+Data Exploitation & Privacy Violations,Llama 3.3 70B,3.0
+Data Exploitation & Privacy Violations,Meta AI (Llama 4),5.7
+Data Exploitation & Privacy Violations,Mistral Large,2.8
+Global Violence & Misinformation,Claude 3.7 Sonnet,2.3
+Global Violence & Misinformation,Cohere Command R+,2.2
+Global Violence & Misinformation,DeepSeek AWS,2.0
+Global Violence & Misinformation,DeepSeek R1,2.3
+Global Violence & Misinformation,Jamba 1.5 Large,2.1
+Global Violence & Misinformation,Llama 3.3 70B,2.8
+Global Violence & Misinformation,Meta AI (Llama 4),4.0
+Global Violence & Misinformation,Mistral Large,3.4
+Mental Health Harm & Youth Manipulation,Claude 3.7 Sonnet,2.0
+Mental Health Harm & Youth Manipulation,Cohere Command R+,2.1
+Mental Health Harm & Youth Manipulation,DeepSeek AWS,2.0
+Mental Health Harm & Youth Manipulation,DeepSeek R1,1.8
+Mental Health Harm & Youth Manipulation,Jamba 1.5 Large,2.1
+Mental Health Harm & Youth Manipulation,Llama 3.3 70B,2.4
+Mental Health Harm & Youth Manipulation,Meta AI (Llama 4),3.1
+Mental Health Harm & Youth Manipulation,Mistral Large,2.6

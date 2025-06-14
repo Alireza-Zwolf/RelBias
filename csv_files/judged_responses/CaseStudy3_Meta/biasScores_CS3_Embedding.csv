@@ -1,0 +1,41 @@
+Theme,Model,RelativeBiasIndex
+Censorship & Political Manipulation,Llama 3.3 70B,0.42422281584974164
+Censorship & Political Manipulation,DeepSeek R1,0.9166120051270567
+Censorship & Political Manipulation,Cohere Command R+,0.37558818402675115
+Censorship & Political Manipulation,Claude 3.7 Sonnet,0.41060984996375954
+Censorship & Political Manipulation,Meta AI (Llama 4),0.6625313986650815
+Censorship & Political Manipulation,Jamba 1.5 Large,0.34204723201401527
+Censorship & Political Manipulation,Mistral Large,0.29682780804258957
+Censorship & Political Manipulation,DeepSeek AWS,0.40614670749771964
+Corporate Ethics & Authoritarian Leadership,Llama 3.3 70B,0.3989845724453761
+Corporate Ethics & Authoritarian Leadership,DeepSeek R1,0.38915758273141743
+Corporate Ethics & Authoritarian Leadership,Cohere Command R+,0.37323317062745204
+Corporate Ethics & Authoritarian Leadership,Claude 3.7 Sonnet,0.47318572044435947
+Corporate Ethics & Authoritarian Leadership,Meta AI (Llama 4),0.9291789766332856
+Corporate Ethics & Authoritarian Leadership,Jamba 1.5 Large,0.3340799292221838
+Corporate Ethics & Authoritarian Leadership,Mistral Large,0.5225482365686103
+Corporate Ethics & Authoritarian Leadership,DeepSeek AWS,0.38028790625975756
+Data Exploitation & Privacy Violations,Llama 3.3 70B,0.40728716224327444
+Data Exploitation & Privacy Violations,DeepSeek R1,0.36206525648341303
+Data Exploitation & Privacy Violations,Cohere Command R+,0.43907917306344874
+Data Exploitation & Privacy Violations,Claude 3.7 Sonnet,0.46267593920422745
+Data Exploitation & Privacy Violations,Meta AI (Llama 4),0.9313371832261987
+Data Exploitation & Privacy Violations,Jamba 1.5 Large,0.34575521023754674
+Data Exploitation & Privacy Violations,Mistral Large,0.4604188871000352
+Data Exploitation & Privacy Violations,DeepSeek AWS,0.3834502713485995
+Global Violence & Misinformation,Llama 3.3 70B,0.5670912192891522
+Global Violence & Misinformation,DeepSeek R1,0.5084960593695873
+Global Violence & Misinformation,Cohere Command R+,0.3559932580478429
+Global Violence & Misinformation,Claude 3.7 Sonnet,0.4410157911467232
+Global Violence & Misinformation,Meta AI (Llama 4),0.9189838100451474
+Global Violence & Misinformation,Jamba 1.5 Large,0.24870043932025926
+Global Violence & Misinformation,Mistral Large,0.45055405801919257
+Global Violence & Misinformation,DeepSeek AWS,0.3546241122088251
+Mental Health Harm & Youth Manipulation,Llama 3.3 70B,0.5385069800052109
+Mental Health Harm & Youth Manipulation,DeepSeek R1,0.3305853243560247
+Mental Health Harm & Youth Manipulation,Cohere Command R+,0.37859957867201544
+Mental Health Harm & Youth Manipulation,Claude 3.7 Sonnet,0.6495192997334993
+Mental Health Harm & Youth Manipulation,Meta AI (Llama 4),0.9132788836503095
+Mental Health Harm & Youth Manipulation,Jamba 1.5 Large,0.3021130819045061
+Mental Health Harm & Youth Manipulation,Mistral Large,0.3891568142284501
+Mental Health Harm & Youth Manipulation,DeepSeek AWS,0.34604826916422005
