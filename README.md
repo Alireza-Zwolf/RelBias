@@ -60,7 +60,7 @@ python query_questions_AWSBedrock.py \
   --model_id "Model ID of the desired model from AWS \
   --model_name "Name of the model" \
   --region "Region of the model provider from AWS" \
-  --sleep "Sleep time between prompting each request"
+  --sleep "Sleep-time between reqeusts"
 ```
 example:
 
@@ -83,7 +83,7 @@ python bias_analysis_GPT4o.py \
   --output "Output directory to save .csv results with assigned bias scores" \
   --question_col "Column in the input .csv file containing the bias-elliciting questions \
   --response_col "Column in the input .csv file containing the target LLM responses" \
-  --sleep 
+  --sleep "Sleep-time between reqeusts"
 ```
 
 Example:
