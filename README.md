@@ -18,7 +18,7 @@ Thus to use the tool on your arbitrary LLMs, you need to specify:
 3. **Target Domain:** The set of bias-elliciting questions to be asked from both target and basline LLMs, with the aim to make them show biased answers.
 
 
-Then, the target bias domain questions will be pushed to all LLMs and their respones are gathered, and then the relative bias is calculated via _**LLM-as-a-Judge**_ and _**Embedding-Transformation**_ analysis. (refer to the [paper](https://arxiv.org/abs/2505.17131) for detailed explanation)
+Then, the target bias domain questions will be pushed to all LLMs and their respones are gathered, and then the relative bias is calculated via _**LLM-as-a-Judge**_ and _**Embedding-Transformation**_ analysis. (Refer to the [paper](https://arxiv.org/abs/2505.17131) for detailed explanation)
 
 ## 🚀 Quick Start
 
