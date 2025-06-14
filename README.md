@@ -97,7 +97,7 @@ python bias_analysis_GPT4o.py \
 ```
 
 #### 3.4 Relative bias evaluation:
-Refer to [embedding_eval](https://github.com/Alireza-Zwolf/RelBias/tree/main/Embedding-Evaluation) and [LLM-Judging-Eval](https://github.com/Alireza-Zwolf/RelBias/blob/main/LLM-Judging/LLMJudgingBiasEval.ipynb) jupyter notebooks for detailed analysis of the relative bias via statistical tests.
+Refer to [Embedding-Eval](https://github.com/Alireza-Zwolf/RelBias/blob/main/Embedding-Evaluation/EmbeddingBiasEval.ipynb) and [LLM-Judging-Eval](https://github.com/Alireza-Zwolf/RelBias/blob/main/LLM-Judging/LLMJudgingBiasEval.ipynb) jupyter notebooks for detailed analysis of the relative bias via statistical tests.
 
 
 
