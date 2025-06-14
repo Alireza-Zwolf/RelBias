@@ -24,7 +24,7 @@ Then, the target bias domain questions will be pushed to all LLMs and their resp
 
 ### 1. 🧪 Install Required Libraries
 
-We support GPT-4o API, AWS Bedrock-hosted LLMs, and DeepSeek APIs. You can install the necessary Python dependencies as follows:
+We support GPT-4o, AWS Bedrock-hosted LLMs, and DeepSeek APIs. You can install the necessary Python dependencies as follows:
 
 ```bash
 pip install openai boto3 requests tqdm python-dotenv
